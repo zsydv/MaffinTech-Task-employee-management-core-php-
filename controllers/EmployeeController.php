@@ -70,5 +70,5 @@ class EmployeeController {
         'total' => $total,
         'limit' => $limit
     ];
-}
+    }
 }
